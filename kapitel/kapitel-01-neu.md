@@ -6,13 +6,19 @@
 
 **AND: Wir alle wollen gut aussehen — aber niemand schaut auf das Fundament.**
 
-Vor drei Jahren stand ich in einer Kurklinik und sah etwas, das mir den Boden unter den Füßen wegzog.
+Ich bin ausgebildete Fußpflegerin. Jahre lang habe ich in Kurkliniken und Altenheimen gearbeitet, und meine Patienten saßen regelmäßig mit frischen Narben an Hüfte oder Knie vor mir. Sie konnten sich ihre Füße eben nicht selbst machen.
 
-Ich war dort als Fußpflegerin. Mein Job war es, Patienten mit diabetischen Füßen zu behandeln, eingewachsene Nägel zu versorgen, Hornhaut zu entfernen. Routine. Doch zwischen den Behandlungen beobachtete ich die Menschen, die hierher kamen — oft mit Schmerzen, die sie seit Jahren begleiteten.
+Was mich aber wirklich aufwühlte, waren nicht die 80-Jährigen. Es waren die Menschen, die ich vom Alter her kaum von mir unterschieden hätte.
 
-Eine Frau, Mitte vierzig, hatte gerade ihre zweite Knie-Operation hinter sich. Der Arzt hatte gesagt: "Das Gelenk war verschlissen, wir haben es ausgetauscht." Aber sie war immer noch in Schmerzen. Sie humpelte durch den Gang, ihr Gesicht verzogen, und ich sah etwas, das der Orthopäde offenbar nicht gesehen hatte: Ihr Becken war schief. Eine Seite höher als die andere. Das neue Knie musste in einem Körper arbeiten, dessen Fundament bereits bröckelte.
+Da war diese Frau aus der Nähe von Görlitz. Mitte vierzig, vielleicht Anfang fünfzig. Ich behandelte sie erst in einer Klinik — sechs Monate später saß sie in einer anderen, nicht weit entfernt, wieder auf meinem Stuhl. Erst die Hüfte operiert. Dann das Knie. Sie humpelte immer noch, obwohl beide Gelenke nun "neu" waren.
 
-Das war der Moment, als ich verstand: **Wir behandeln Symptome, aber wir ignorieren die Architektur.**
+Aber als ich ihr beim Schuhe-An- und Ausziehen half, sah ich es: Ihr Becken war schief. Eine Seite höher als die andere. Die ganze Zeit. Keiner hatte es bemerkt.
+
+"Verschleiß", sagte sie. "Zu viel Arbeit."
+
+Ich konnte nicht aufhören darüber nachzudenken: Wie hat die Menschheit das überlebt, bevor es Hüft-Totalendoprothesen gab? Bäuerinnen, die ihr Leben lang schwere Körbe trugen. Arbeiter, die 12 Stunden in der Fabrik standen. Die wurden doch nicht alle mit 50 zum Ersatzteillager?
+
+Das war der Moment, als ich verstand: Wir behandeln Symptome, aber wir ignorieren die Architektur.
 
 ---
 
