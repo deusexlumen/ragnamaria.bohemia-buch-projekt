@@ -13,6 +13,11 @@
 
 **Quelle:** Kann als Custom-Illustration bei Fiverr/99designs erstellt werden
 
+**DALL-E/Midjourney Prompt:**
+```
+Medical infographic showing a domino chain reaction through the human body, side view. Five dominoes in falling sequence: pelvis → hip → knee → spine → shoulders → jaw. Each domino contains a minimalist anatomical icon. Warm terracotta color for problem areas, sage green for the corrected final position. Clean vector style, soft shadows, cream background. Arrows showing cascade direction. Professional anatomy book illustration style, not clinical but warm and inviting. --ar 16:9 --style raw
+```
+
 ---
 
 ### Bild 1.2: Die drei Becken-Typen (Seite 5)
@@ -28,6 +33,11 @@
 
 **Alternative:** Fotos von Models, die die Positionen demonstrieren (mit Einverständniserklärung)
 
+**DALL-E/Midjourney Prompt:**
+```
+Three side-view female silhouettes showing different pelvic tilts against a cream background. Left: Anterior Pelvic Tilt (APT) - arched lower back, belly forward, red accent on lower back. Center: Posterior Pelvic Tilt (PPT) - flattened lower back, tucked pelvis, red accent on rounded shoulders. Right: Lateral Pelvic Tilt - one hip higher, shoulders tilted, red accent on compressed side. Minimalist medical illustration style, soft dusty rose and sage green accents, clean lines, anatomical landmarks marked with subtle dots. Professional but approachable, diverse body type. --ar 21:9 --style raw
+```
+
 ---
 
 ### Bild 1.3: Der Selbsttest (Seite 7)
@@ -41,6 +51,29 @@
 
 **Stil:** Selbst gemacht mit Smartphone, authentisch, nicht gestellt
 **Modell:** Ragna Maria selbst (persönlicher Touch!)
+
+**DALL-E/Midjourney Prompt:**
+```
+Four-panel instructional photo sequence showing a woman performing a pelvic tilt self-test in front of a mirror. Panel 1: Standing sideways, hands on hip bones. Panel 2: Close-up of hands palpating pelvic rims. Panel 3: Front view checking hip height. Panel 4: Side view assessing lower back curve. Natural lighting, home bathroom setting, authentic smartphone-photo aesthetic, not posed. Neutral workout clothes, diverse body type, warm terracotta and cream color palette. Clear, simple, encouraging. --ar 4:3 --style raw
+```
+
+---
+
+### Bild 1.4: Die Deep Front Line (Seite 9)
+**Position:** Nach "Die verborgene Verbindung" oder als Abschluss von Kapitel 1
+**Typ:** Fasziale Anatomie-Illustration
+**Inhalt:**
+- Seitenansicht weiblicher Körper mit semi-transparenter Darstellung
+- Deep Front Line hervorgehoben: Zungenbasis → Rachen → Zwerchfell → Psoas → Beckenboden
+- Kontinuierliche Linie zeigt die verborgene Verbindung durch den Körperkern
+
+**Stil:** Anatomy Trains inspiriert, aber wärmer und künstlerischer
+**Beschreibung:** Zeigt die unsichtbare Architektur, die das Becken mit der Atmung verbindet
+
+**DALL-E/Midjourney Prompt:**
+```
+Fascial anatomy illustration showing the Deep Front Line myofascial chain. Side view of female body silhouette with internal pathway highlighted: tongue base → throat → diaphragm → psoas → pelvic floor. Continuous sage green line connecting these points through the body's core. Semi-transparent body showing the deep pathway. Anatomy Trains style but warmer, with terracotta accents at connection points. Cream background, hand-drawn anatomical illustration style, elegant and mysterious, showing invisible connections. Labels in clean sans-serif. --ar 3:4 --style raw
+```
 
 ---
 
@@ -63,6 +96,11 @@
 
 **Quelle:** Anatomie-Atlas oder Medical-Illustrator
 
+**DALL-E/Midjourney Prompt:**
+```
+Medical illustration showing diaphragm function in two phases, side view cross-section of female torso. Left panel (INHALE): Diaphragm flattened downward, lungs expanded in light blue, belly gently rounded outward, sage green arrows showing downward movement. Right panel (EXHALE): Diaphragm dome-shaped upward, lungs compressed, arrows reversing. Warm terracotta muscle tissue, cream background, clean anatomical style. Semi-transparent ribs showing the breathing mechanism. Labels: "Einatmen" and "Ausatmen" in clean sans-serif. Professional but warm, educational poster style. --ar 16:9 --style raw
+```
+
 ---
 
 ### Bild 2.2: Falsche vs. Richtige Atmung (Seite 14)
@@ -79,6 +117,11 @@
 
 **Stil:** Fotos oder realistische Illustration
 
+**DALL-E/Midjourney Prompt:**
+```
+Split-screen comparison of breathing patterns, side view female silhouette. LEFT (red X): Shoulder breathing - shoulders raised, neck tense, chest puffed, shallow breath, stress mode. RIGHT (green check): Belly breathing - shoulders relaxed, diaphragm active, abdomen expanding, calm posture. Same clothing (neutral workout top), consistent lighting, cream background. Terracotta accents for "wrong", sage green for "right". Minimalist medical illustration style, soft shadows, clear visual contrast. Educational but not clinical. --ar 21:9 --style raw
+```
+
 ---
 
 ### Bild 2.3: Die 6-Sekunden-Atmung (Seite 16)
@@ -93,6 +136,11 @@
 
 **Beschriftung:** 
 > "Die ideale Atemfrequenz: 5-6 Atemzüge pro Minute aktivieren den Parasympathikus"
+
+**DALL-E/Midjourney Prompt:**
+```
+Circular breathing timer infographic, cream background with sage green and terracotta accents. Center: Large circle divided into three segments - 4 seconds INHALE (blue, expanding), 2 seconds PAUSE (grey, still), 6 seconds EXHALE (green, contracting). Gentle wave patterns inside each segment. Outer ring showing "5-6 Atemzüge pro Minute" as target. Small lungs icon at center. Clean, minimalist design, calming color palette, suitable for quick reference. Soft typography, almost meditative aesthetic. --ar 1:1 --style raw
+```
 
 ---
 
